@@ -49,6 +49,9 @@ To prevent loading,
 R1   10 R
 R1 =10 R = 33 k. Rf = 29R1=1MΩ
 
+<img width="539" height="369" alt="Screenshot 2026-03-29 141946" src="https://github.com/user-attachments/assets/4bfd396c-e13a-4ed1-ae9c-3a476b41b862" />
+
+
 ---
 ## PROCEDURE
 1.	Connect the circuit as shown in fig. With the design values.
@@ -57,16 +60,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="627" height="203" alt="Screenshot 2026-03-29 142124" src="https://github.com/user-attachments/assets/896f627d-396e-408f-a2c3-30b48cb88378" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7b31c457-c1de-4243-a354-1a1cafe3a7b9" />
 
 
 ---
@@ -113,6 +112,10 @@ R=1/2πfC
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/dea72e54-76a2-401b-845b-11a58173e084" />
+
+
 ---
 
 ## PROCEDURE
@@ -124,16 +127,12 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/da08e03d-afd3-432d-b223-e1d7277fc33f" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/25372826-1693-4e95-84d6-78224e4c187c" />
 
 
 ---
